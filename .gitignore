@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.env
+.streamlit/secrets.toml
+.DS_Store
+uploads/*.csv
+*.joblib
+.pytest_cache/
